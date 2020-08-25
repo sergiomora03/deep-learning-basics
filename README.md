@@ -13,12 +13,16 @@ Here is some notebooks done in class with basic topics about deep learning
 |Notebook|[LinearRegression-Keras.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/deep-learning-basics/blob/master/Implementaciones/LinearRegression/LinearRegression-Keras.ipynb)|
 |Dataset|[weight-height.csv](https://github.com/sergiomora03/deep-learning-basics/blob/master/Implementaciones/LinearRegression/weight-height.csv)|
 
+<br>
+
 ### Logistic Regression in Deep Learning
 
 |Description|File|
 |-----------|----|
 |Notebook|[LogisticRegression-Keras.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/deep-learning-basics/blob/master/Implementaciones/LogisticRegression/LogisticRegression-Keras.ipynb)|
 |Dataset|[user_visit_duration.csv](https://github.com/sergiomora03/deep-learning-basics/blob/master/Implementaciones/LogisticRegression/user_visit_duration.csv)|
+
+<br>
 
 ### Transfer Learning
 
